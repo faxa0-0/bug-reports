@@ -33,4 +33,4 @@
 
 **Вложения**:
 
-<img src="./attachments/Screenshot_2025-02-05-20-15-00-772_uz.uzinfocom.het_billing.jpg" height="200" />
+<img src="./attachments/Screenshot_2025-02-05-20-15-00-772_uz.uzinfocom.het_billing.jpg" height="500" />
